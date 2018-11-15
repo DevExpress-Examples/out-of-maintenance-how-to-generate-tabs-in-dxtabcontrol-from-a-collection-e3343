@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSource.cs](./CS/DXTabControl_DataBinding/DataSource.cs) (VB: [DataSource.vb](./VB/DXTabControl_DataBinding/DataSource.vb))
+* [MainWindow.xaml](./CS/DXTabControl_DataBinding/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXTabControl_DataBinding/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXTabControl_DataBinding/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXTabControl_DataBinding/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Generate Tabs in DXTabControl from a Collection
 
 
