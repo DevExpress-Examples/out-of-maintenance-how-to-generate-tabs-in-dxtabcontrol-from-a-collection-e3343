@@ -13,18 +13,18 @@ Imports System.Windows.Navigation
 Imports System.Windows.Shapes
 
 Namespace DXTabControlExample.View
-    ''' <summary>
-    ''' Interaction logic for MainView.xaml
-    ''' </summary>
-    Partial Public Class MainView
-        Inherits UserControl
+	''' <summary>
+	''' Interaction logic for MainView.xaml
+	''' </summary>
+	Partial Public Class MainView
+		Inherits UserControl
 
-        Public Sub New()
-            InitializeComponent()
-        End Sub
+		Public Sub New()
+			InitializeComponent()
+		End Sub
 
-        Private Sub DXTabControl_TabShown(ByVal sender As Object, ByVal e As DevExpress.Xpf.Core.TabControlTabShownEventArgs)
+		Private Sub DXTabControl_TabShown(ByVal sender As Object, ByVal e As DevExpress.Xpf.Core.TabControlTabShownEventArgs)
 
-        End Sub
-    End Class
+		End Sub
+	End Class
 End Namespace
